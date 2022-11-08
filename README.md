@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minh Huynh</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmlMQWlTM3lTSFEwdWIwN3NOc05JZ3ZiS3FPd3xBQ3Jtc0trUVBzNFBmRzdJUDBQNlg4bEhIaGtQYTZjTXdTV0ZUUHBEVzhydXpGT2dUZkdNcnNSYlB0eTdIbEFOcXpUYUJDYnRnS1N4ZDl1S3FGWVFDUFMyaXpVbXlpN1Z6c2FGUUdjczlXZTZJUjhZS0NYTTdMWQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **minhhuynh.devp@gmail.com**
+- 📫 Email: **minhhuynh.devp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
